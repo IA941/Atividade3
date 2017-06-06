@@ -1,0 +1,7 @@
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/bin/Release/ClarionDEMO.exe
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/bin/Release/ClarionDEMO.pdb
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/bin/Release/ClarionLibrary.dll
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/obj/x86/Release/ClarionDEMO.csprojResolveAssemblyReference.cache
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/obj/x86/Release/ClarionDEMO.csproj.CoreCompileInputs.cache
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/obj/x86/Release/ClarionDEMO.exe
+/home/danilo/Documents/ClarionDEMO/ClarionDEMO/obj/x86/Release/ClarionDEMO.pdb

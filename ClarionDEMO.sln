@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarionDEMO", "ClarionDEMO\ClarionDEMO.csproj", "{C103EE32-51CA-49DA-94AD-999A10BB4308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C103EE32-51CA-49DA-94AD-999A10BB4308}.Debug|x86.ActiveCfg = Debug|x86
+		{C103EE32-51CA-49DA-94AD-999A10BB4308}.Debug|x86.Build.0 = Debug|x86
+		{C103EE32-51CA-49DA-94AD-999A10BB4308}.Release|x86.ActiveCfg = Release|x86
+		{C103EE32-51CA-49DA-94AD-999A10BB4308}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ClarionDEMO\ClarionDEMO.csproj
+	EndGlobalSection
+EndGlobal
